@@ -1,5 +1,5 @@
-import { Params } from "./paramsModel";
+import { TwoNumbersObj } from "./twoNumbersObj";
 
-export default function addObjectNumbers(params: Params) {
-    return params.first + params.second;
+export default function addObjectNumbers(params: TwoNumbersObj) {
+  return params.first + params.second;
 }
