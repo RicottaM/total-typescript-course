@@ -1,2 +1,2 @@
 # total-typescript-course
-Course teaching TypeScript basics and more
+Project implementing total TypeScript course basics and more.
